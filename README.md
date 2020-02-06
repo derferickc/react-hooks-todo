@@ -1,6 +1,6 @@
 # React Hooks To-Do App
 
-> A simple To-Do app that uses React Hooks and functional components to power it. User has the ability to cross off completed items, and remove items before or after completion.
+> A simple To-Do app that uses React Hooks and functional components to power it. User has the ability to add new tasks to the list, cross off completed items, and remove items before or after completion.
 
 > Technology used: React, React Hooks, HTML5, CSS3, ES6
 
